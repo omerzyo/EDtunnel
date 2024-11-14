@@ -4,7 +4,6 @@ compatibility_date = "2023-05-26"
 routes = [
   { pattern = "cf.arrows.biz.id", custom_domain = true },
   { pattern = "quiz.int.vidio.com.cf.arrows.biz.id", custom_domain = true }
-  { pattern = "quiz.vidio.com.cf.arrows.biz.id", custom_domain = true }
 ]
 # node_compat = true
 workers_dev = true
