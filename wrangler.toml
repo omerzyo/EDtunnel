@@ -15,7 +15,7 @@ custom_domain = true
 workers_dev = true
 
 [vars]
-PROXYIP = "146.190.111.165"
+PROXYIP = "146.190.111.165:443"
 UUID = "77f82176-8f3d-4163-be41-f8a1416b56dc"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
