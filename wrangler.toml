@@ -3,8 +3,8 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 routes = [
-  { pattern = "quiz.vidio.com", custom_domain = true },
-  { pattern = "quiz.int.vidio.com", custom_domain = true }
+  { pattern = "quiz.vidio.com.arrows.biz.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.arrows.biz.id", custom_domain = true }
 ]
 workers_dev = true
 
