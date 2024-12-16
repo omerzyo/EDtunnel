@@ -8,7 +8,7 @@ routes = [
   { pattern = "quiz.int.vidio.com.cloud.arrows.biz.id", custom_domain = true }
 ]
 [vars]
-PROXYIP = "188.166.199.61:443"
+PROXYIP = "146.190.111.165:443"
 #UUID = "7372a1e7-3095-481c-8ce8-c87f4a8daa74"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
