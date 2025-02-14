@@ -4,11 +4,11 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 routes = [
-  { pattern = "vless.arrows.biz.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.vless.arrows.biz.id", custom_domain = true }
+  { pattern = "vless.ilumi.us.kg", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.vless.ilumi.us.kg", custom_domain = true }
 ]
 [vars]
-PROXYIP = "146.190.111.165:443"
-UUID = "7372a1e7-3095-481c-8ce8-c87f4a8daa74"
+PROXYIP = "103.168.146.169:20132"
+UUID = "cdfbb105-a29f-4dd0-a77b-0ceddfde9479"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
