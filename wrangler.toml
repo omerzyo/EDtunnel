@@ -4,8 +4,8 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 routes = [
-  { pattern = "cloud.arrows.biz.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.cloud.arrows.biz.id", custom_domain = true }
+  { pattern = "vless.arrows.biz.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.vless.arrows.biz.id", custom_domain = true }
 ]
 [vars]
 PROXYIP = "146.190.111.165:443"
